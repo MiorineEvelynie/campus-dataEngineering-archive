@@ -5,7 +5,7 @@ This project aims to build an end-to-end data engineering pipeline to transform 
 
 ## Tech Stack & Architecture
 This project implements an ETL (Extract, Transform, Load) approach because data transformation is performed before loading it into MySQL, which is considered more suitable for retail analysis to ensure the data is more reliable, easily validated, and cleaner in structure.
-*   **Data Source:** CSV file (raw data source).
+*   **Data Source:** CSV file ([Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=insightfultales.com#)).
 *   **Preprocessing:** Python is used for initial preprocessing.
 *   **ETL Orchestration:** Pentaho Data Integration is used to orchestrate the sequential execution of the ETL pipeline, from data ingestion and the creation of dimension tables to the fact table.
 *   **Data Storage:** MySQL is used as a structured relational database to store the results of the ETL process.
