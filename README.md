@@ -24,7 +24,7 @@ To ensure data quality and reliability (trustworthy data), this project applies 
 
 ## View the Dashboard
 👉 [Explore the Interactive PowerBI Dashboard Here](## View the Dashboard
-(https://public.tableau.com/app/profile/herrick.fabian/viz/Datvisrevisi2/HighVolumeThinMarginsSalesBelowMMRThreatenProfitabilityinKeyMonths?publish=yes)
+(https://app.powerbi.com/groups/me/reports/6a2395c6-68ae-45f0-b424-41979f34ef77/befec9c6a644b0c43bf7?experience=power-bi)
 
 ## Analytical Insights
 The generated Power BI dashboard revealed several key business findings:
