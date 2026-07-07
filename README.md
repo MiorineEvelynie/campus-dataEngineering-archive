@@ -22,6 +22,10 @@ To ensure data quality and reliability (trustworthy data), this project applies 
 *   Implementing strict validation rules: `quantity > 0` and `unit_price > 0`.
 *   Maintaining reliability with a structured ETL workflow, controlled data transformations, consistency checks, and the detection of invalid transactions.
 
+## View the Dashboard
+👉 [Explore the Interactive PowerBI Dashboard Here](## View the Dashboard
+(https://public.tableau.com/app/profile/herrick.fabian/viz/Datvisrevisi2/HighVolumeThinMarginsSalesBelowMMRThreatenProfitabilityinKeyMonths?publish=yes)
+
 ## Analytical Insights
 The generated Power BI dashboard revealed several key business findings:
 *   The company has 4,338 loyal customers, with transactions dominated by returning customers.
